@@ -2,6 +2,25 @@
 <html>
   <head>
     <title>Social Media</title>
+    <h1> Social Media </h1>
+
+<style>
+
+h1 {
+
+	color: #FF9333;
+
+	font-family: arial;
+
+        font-size: 3rem;
+
+        text-transform: capitalize;
+
+   
+        text-align: center;
+
+      }
+      
   </head>
   <body>
     <p> 
@@ -14,6 +33,5 @@
     Click the <a href="https://www.business2community.com/social-media/impact-social-media-truly-society-0974685"
     <cite>Article page</cite></a> for more information
     </p>
-    p{ color: FF9333 }
   </body>
 </html>
